@@ -1,0 +1,20 @@
+{
+    "folders": [
+        {
+            "name": "/workspace",
+            "path": "/workspace"
+        }
+    ],
+    "settings": {
+        "terminal.integrated.shell.linux": "/usr/bin/bash",
+        "workbench.colorTheme": "Visual Studio Dark - C++"
+    },
+    "extensions": {
+        "recommendations": [
+            "ms-vscode.cpptools",
+            "ms-vscode.cmake-tools",
+            "ms-vscode.hexeditor"
+        ]
+    }
+}
+
